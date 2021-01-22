@@ -11,6 +11,10 @@ Vaka sayıları ve Entübe hasta sayılarında artış gözlemlenirse yeni giril
 İyileşen sayıları ve Test sayılarında artış gözlemlenirse yeni girilen veri yeşil ile renklendirilir. Önceki günlere ait veriler güncel ortalamaya göre renklendirilmektedir.
 
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/45373285/105550300-4c8c7500-5d12-11eb-8461-4fc070d2adc7.JPG)
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Daily Coronavirus Case Table Application
 
