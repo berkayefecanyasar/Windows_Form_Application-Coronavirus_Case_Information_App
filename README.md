@@ -13,7 +13,7 @@ Vaka sayıları ve Entübe hasta sayılarında artış gözlemlenirse yeni giril
 İyileşen sayıları ve Test sayılarında artış gözlemlenirse yeni girilen veri yeşil ile renklendirilir. Önceki günlere ait veriler güncel ortalamaya göre renklendirilmektedir.
 
 
-
+![Ekran Alıntcvısı](https://user-images.githubusercontent.com/45373285/105551039-4054e780-5d13-11eb-9c11-035170f47c25.JPG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
