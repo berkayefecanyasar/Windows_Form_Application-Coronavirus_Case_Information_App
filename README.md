@@ -16,7 +16,7 @@ Vaka sayıları ve Entübe hasta sayılarında artış gözlemlenirse yeni giril
 ![Ekran Alıntcvısı](https://user-images.githubusercontent.com/45373285/105551039-4054e780-5d13-11eb-9c11-035170f47c25.JPG)
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Daily Coronavirus Case Table Application
 
 It is a form application made on the tabulation and interpretation of the daily coronavirus case table by provinces.
